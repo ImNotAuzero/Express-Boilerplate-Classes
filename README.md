@@ -1,2 +1,2 @@
-# Express-Boilerplate-Classes
-Express boilerplate built using classes.
+# Express-ImgGenAPI
+An image generator api
